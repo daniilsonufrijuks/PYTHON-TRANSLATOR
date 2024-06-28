@@ -21,3 +21,8 @@ First, install the `googletrans` library:
 You can also expand the functionality by adding support for other libraries or APIs for text translation.
 This example represents a basic implementation of a translator. Depending on the requirements, you can add additional features and improvements.`
 
+
+### Run example:
+  ![image](https://github.com/daniilsonufrijuks/PYTHON-TRANSLATOR/assets/127093801/bb5ee50f-5117-43d1-8b18-35266fd46190)
+
+
