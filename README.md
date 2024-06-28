@@ -3,9 +3,9 @@ Simple, but powerfull translator using Python and googletrans lib
 
 
 ### Creating a simple translator in Python
-**Creating a simple translator in Python can be an interesting project. We can use the translate or googletrans library, which works with the Google Translate API. In this concept, we will create a basic translator that will translate text from one language to another.
+** Creating a simple translator in Python can be an interesting project. We can use the translate or googletrans library, which works with the Google Translate API. In this concept, we will create a basic translator that will translate text from one language to another.
 
-Here's an example of implementing a translator in Python using the googletrans library.**
+Here's an example of implementing a translator in Python using the googletrans library. **
 
 ### Steps to implement:
 1. Install the googletrans library.
